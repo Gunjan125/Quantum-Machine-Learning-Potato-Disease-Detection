@@ -224,6 +224,16 @@ The performance depends on:
 - Multi-crop disease classification
 
 ---
+## 📚 Learn More About Quantum Machine Learning
+
+Interested in understanding the concepts behind Quantum Machine Learning (QML) used in this project?
+
+Read my article:
+
+🔗 [[Quantum Computing: The Future Beyond Classical Machines](YOUR_ARTICLE_LINK_HERE)](https://medium.com/@gunjansoni20058/quantum-machine-learning-isnt-about-faster-computers-it-s-about-rethinking-computation-da5534461349)
+
+
+  ---
 
 ## 👩‍💻 Author
 
