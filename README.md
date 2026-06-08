@@ -1,0 +1,1 @@
+# Quantum-Machine-Learning-Potato-Disease-Detection
